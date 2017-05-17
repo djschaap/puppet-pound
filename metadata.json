@@ -1,7 +1,7 @@
 {
-  "name": "adamcrews-pound",
-  "version": "1.2.0",
-  "source": "https://github.com/adamcrews/puppet-pound",
+  "name": "djschaap-pound",
+  "version": "1.2.1",
+  "source": "https://github.com/djschaap/puppet-pound",
   "author": "Adam Crews",
   "license": "Apache-2.0",
   "summary": "Pound Module",
